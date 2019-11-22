@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://cdn.rawgit.com/RainbowPawz/iDEKOFonts/blob/master/Avenir.woff?') format('woff'),
+         url('https://cdn.rawgit.com/RainbowPawz/iDEKOFonts/blob/master/Avenir.otf') format('opentype'),
+         url('https://cdn.rawgit.com/RainbowPawz/iDEKOFonts/blob/master/Avenir.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/RainbowPawz/iDEKOFonts/blob/master/Avenir.svg') format('svg');
+}
